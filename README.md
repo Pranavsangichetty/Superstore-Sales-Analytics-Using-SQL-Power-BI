@@ -1,7 +1,3 @@
-That's a great idea! Combining the information from your Power BI dashboard and your MySQL script into a single, cohesive README creates a complete portfolio piece, showing both the **data backend** (SQL) and the **visualization front-end** (Power BI).
-
-Here is the combined and fully detailed README section.
-
 ## 📈 Superstore Sales Analysis: End-to-End Project
 
 ### Project Overview
